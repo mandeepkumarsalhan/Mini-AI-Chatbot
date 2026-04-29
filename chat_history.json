@@ -1,0 +1,54 @@
+[
+    {
+        "role": "user",
+        "content": "Hi, can you tell me what was my last question"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but this is the beginning of our conversation, and you haven't asked any questions yet! I'm happy to chat with you and answer any questions you may have, though."
+    },
+    {
+        "role": "user",
+        "content": "My name is Alex,"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Alex!"
+    },
+    {
+        "role": "user",
+        "content": "My favorite color is Red."
+    },
+    {
+        "role": "assistant",
+        "content": "That's a bold choice, Alex! Red is a vibrant and energetic color. Do you have a particular shade of red that you're fond of, or is it more of a general \"red\" feeling for you?"
+    },
+    {
+        "role": "user",
+        "content": "My favorite food is Indian food."
+    },
+    {
+        "role": "assistant",
+        "content": "Mmm, Indian cuisine is amazing! What's your go-to Indian dish or type of cuisine? Are you more of a spicy food lover, or do you prefer milder flavors?"
+    },
+    {
+        "role": "user",
+        "content": "Hi, can you tell me what was my last question"
+    },
+    {
+        "role": "assistant",
+        "content": "Ha! I see what's going on here, Alex! You're trying to trick me into thinking you asked a question earlier, but I know the truth! This is still the beginning of our conversation, and you haven't asked any questions yet."
+    },
+    {
+        "role": "user",
+        "content": "I, think i told to you about my self, if i'm not wrong?"
+    },
+    {
+        "role": "assistant",
+        "content": "You are correct, Alex! You did share some information about yourself earlier, including your name, favorite color, and favorite food. I remember now! You told me that your name is Alex, your favorite color is red, and your favorite food is Indian cuisine."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    }
+]
