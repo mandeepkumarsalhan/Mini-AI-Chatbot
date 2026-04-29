@@ -44,3 +44,4 @@ Simply run the script in your terminal:
 python main.py
 ```
 Type your messages and press Enter. To quit, type `exit` or `bye`.
+<img width="949" height="454" alt="Chatbot Converstation" src="https://github.com/user-attachments/assets/cb276a80-b374-45af-852e-d3f332237a90" />
